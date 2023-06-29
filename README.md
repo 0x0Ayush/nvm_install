@@ -15,6 +15,6 @@ Follow these steps to install NVM on your Windows PC:
    nvm -v
 
 
-To install a specific version of Node.js, use the following command: `nvm install <version>`
-To use a specific version of Node.js, run the following command: `nvm use <version> `
-To see a list of all the installed versions of Node.js, run the following command: `nvm list`
+1. To install a specific version of Node.js, use the following command: `nvm install <version>`
+2. To use a specific version of Node.js, run the following command: `nvm use <version> `
+3. To see a list of all the installed versions of Node.js, run the following command: `nvm list`
